@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["TEAMID.io.steir.duoquest"],
+        "components": [
+          { "/": "/join/*", "comment": "Invite links, e.g. /join/123456" }
+        ]
+      }
+    ]
+  }
+}
